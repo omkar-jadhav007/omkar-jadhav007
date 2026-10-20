@@ -75,15 +75,21 @@ Building projects, learning new technologies, and turning ideas into code.
 
 ---
 
+#
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar-jadhav007&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=omkar-jadhav007&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
 </div>
 
 ---
+
 
 ## 🏆 GitHub Achievements
 
