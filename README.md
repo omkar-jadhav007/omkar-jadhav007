@@ -78,17 +78,21 @@ Building projects, learning new technologies, and turning ideas into code.
 #
 ---
 
-## 📈 Contribution Activity
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=omkar-jadhav007&theme=tokyo-night&hide_border=true&area=true"
+    src="https://raw.githubusercontent.com/omkar-jadhav007/omkar-jadhav007/output/snake.svg"
+    alt="Snake animation"
     width="100%"
-    alt="GitHub Contribution Activity Graph"
   />
 </div>
 
 ---
+
 
 
 ## 🏆 GitHub Achievements
